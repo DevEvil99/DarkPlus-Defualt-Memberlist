@@ -4,3 +4,4 @@
 
 # Links
 **[Support Server](https://discord.gg/jsQ9UP7kCA)**
+**[Dark+](https://betterdiscord.app/theme/Dark%2B)**
